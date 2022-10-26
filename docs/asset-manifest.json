@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CloneFacebook/static/css/main.a14c414f.css",
+    "main.js": "/CloneFacebook/static/js/main.d386635f.js",
+    "static/media/perfil-m.jpeg": "/CloneFacebook/static/media/perfil-m.9fb81593222905978c9e.jpeg",
+    "static/media/js.png": "/CloneFacebook/static/media/js.8d80e1af19f3687faa08.png",
+    "static/media/react.png": "/CloneFacebook/static/media/react.f1df81d3b64545e753e3.png",
+    "static/media/perfil.jpg": "/CloneFacebook/static/media/perfil.0d9587391971f9535dce.jpg",
+    "index.html": "/CloneFacebook/index.html",
+    "main.a14c414f.css.map": "/CloneFacebook/static/css/main.a14c414f.css.map",
+    "main.d386635f.js.map": "/CloneFacebook/static/js/main.d386635f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14c414f.css",
+    "static/js/main.d386635f.js"
+  ]
+}

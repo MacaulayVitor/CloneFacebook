@@ -3,5 +3,5 @@
  <p>Criado por<a href="https://github.com/MacaulayVitor" target="_blank"> Macaulay Vitor</a>.</p>
 
  <p align="center">
- <img alt="Demo" src="./resources/Animação cloneFace.gif">
+ <img alt="Demo" src="./resources/AnimaçãocloneFace.gif">
 </p>
